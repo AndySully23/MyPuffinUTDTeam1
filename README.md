@@ -1,16 +1,15 @@
-# futurefit
+# My Puffin
 
-A new Flutter project.
+#To run the application :
 
-## Getting Started
+Clone the repository to the system
 
-This project is a starting point for a Flutter application.
+Open it using visual studio code
 
-A few resources to get you started if this is your first Flutter project:
+Go to pubspec.yaml file and click the get packages icon in the top right corner or
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In the terminal type "flutter pub get"
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Then type "flutter run" or
+
+Go to the main file and at the top right corner a play button will appear click on it and select run without debugging
