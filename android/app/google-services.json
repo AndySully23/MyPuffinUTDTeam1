@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691781568497",
+    "project_id": "fir-project-28009",
+    "storage_bucket": "fir-project-28009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691781568497:android:7e974800dc063f3a156650",
+        "android_client_info": {
+          "package_name": "com.example.futurefit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvSB8r6d9MtMWsonqXaybLfLoQyUOelv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
